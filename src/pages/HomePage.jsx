@@ -19,12 +19,6 @@ const HomePage = () => {
            <Event />
            <Booking />
            <Footer/>
-
-           
-           
-           
-           
-        
            
         </div>
     );

@@ -19,7 +19,7 @@ export default function Booking() {
           <Heading alignement="center" theme="secondary" className="mt-5 text-center">
             Réservez votre table
           </Heading>
-          <form className="grid sm:grid-cols-2 gap-x-7 gap-y-6 mt-20">
+          <form className="grid sm:grid-cols-2 gap-x-7 gap-y-6 mt-20 ">
             
             <div>
               <label htmlFor="name">
