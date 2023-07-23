@@ -1,8 +1,7 @@
 import React from 'react';
-
 const ContactsPage = () => {
     return (
-        <div className='text-xs text-green-600'>
+        <div className='text-7xl text-secondary'>
             ContactsPage
         </div>
     );

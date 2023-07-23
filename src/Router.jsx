@@ -11,10 +11,8 @@ const Router = () => {
             </Route>
             <Route path="/ContactsPage" element={<ContactsPage/>}>
             </Route>
-
         </Routes>
        </BrowserRouter>
     );
 }
-
 export default Router;
